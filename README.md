@@ -5,4 +5,4 @@
 # not all links work [done]
 # logo doesn't bring user back to home page
 # css not in order
-# css not optemized
+# css not optimized
